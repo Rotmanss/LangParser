@@ -6,7 +6,6 @@ int main()
     int x = 1;
     float f;
     int a = 3;
-    int x;
     int y = 2232;
     float f;
     a = x * 3 + 5;
